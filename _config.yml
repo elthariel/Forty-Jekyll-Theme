@@ -13,11 +13,6 @@ description: Here I talk about fun things I do
 baseurl: '' # the subpath of your site, e.g. /blog
 url: "https://blog.lta.io" # the base hostname & protocol for your site
 author: Julien 'Lta' BALLET
-street_address:
-state:
-city:
-zip_code:
-country:
 phone: +33 (0)7 68 16 42 96
 languages: Ruby, C, C++, Python
 skills: System development, Production engineering (DevOps), Ruby on Rails
