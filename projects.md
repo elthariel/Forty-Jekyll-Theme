@@ -3,7 +3,7 @@ layout: landing
 title: Projects
 description: Various size and state
 image: assets/images/github_project.png
-menu: true
+# menu: true
 ---
 
 <!-- Banner -->
