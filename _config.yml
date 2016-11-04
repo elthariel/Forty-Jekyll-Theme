@@ -11,7 +11,7 @@ title-normal: Live Thoughs About {...}
 email: contact@lta.io
 description: Here I talk about fun things I do
 baseurl: '' # the subpath of your site, e.g. /blog
-url: "https://blog.lta.io" # the base hostname & protocol for your site
+url: "http://blog.lta.io" # the base hostname & protocol for your site
 author: Julien 'Lta' BALLET
 phone: +33 (0)7 68 16 42 96
 languages: Ruby, C, C++, Python
