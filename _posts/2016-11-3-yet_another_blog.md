@@ -2,21 +2,23 @@
 layout: post
 title: Working on my blog
 description: Jekyll is fun, themes are hard
-image: assets/images/pic06.jpg
+image: assets/images/working_on_my_blog.png
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+After delaying this for a few ~~weeks~~ ~~months~~ years. I'm finally
+getting my hands out of my a** and starting to build myself a small
+cozy place to post about the things I do. I'm sure this will be nice.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum.
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.
+This blog is powered by the simple but fancy Jekyll static website
+generator. An awesome thing is that you can find pretty nice themes
+around, which is especially useful for people like me, with no CSS
+skills whatsoever and no real plans to get any. Another cool feature
+is that I can publish things without leaving my editor and
+terminal. Thanks Jekyll.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+I'd also like to thank [HTML5Up](https://html5up.net/) for their nice
+theme and [andrew banchich](https://github.com/andrewbanchich/) for
+the Jekyll adaptation.
+
+See you soon with nice posts about my work on Chef and Scaleway
+<i>cloud</i> platform.

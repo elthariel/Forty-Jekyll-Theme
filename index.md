@@ -3,7 +3,6 @@ layout: home
 title: Home
 landing-title: Hi, my name is Lta
 description:
-image: assets/images/add_post.gif
 author:
 menu: true
 ---
