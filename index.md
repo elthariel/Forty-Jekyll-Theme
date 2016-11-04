@@ -2,15 +2,15 @@
 layout: home
 title: Home
 landing-title: Hi, my name is Forty
-description: 
-image: 
-author: 
-nav-menu: 
+description:
+image:
+author:
+nav-menu:
 ---
 
 <!-- Banner -->
 <section id="banner" class="major">
-	<div class="inner">
+    <div class="inner">
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>
 		</header>
@@ -43,4 +43,3 @@ nav-menu:
 </section>
 
 </div>
-
