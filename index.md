@@ -1,26 +1,26 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
+landing-title: Hi, my name is Lta
 description:
-image:
+image: assets/images/add_post.gif
 author:
-nav-menu:
+menu: true
 ---
 
 <!-- Banner -->
 <section id="banner" class="major">
     <div class="inner">
-		<header class="major">
-			<h1>{{ page.landing-title }}</h1>
-		</header>
-		<div class="content">
-			<p style="text-transform: uppercase;">{{ site.description }}</p>
-			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Get Started</a></li>
-			</ul>
-		</div>
-	</div>
+    <header class="major">
+      <h1>{{ page.landing-title }}</h1>
+    </header>
+    <div class="content">
+      <p style="text-transform: uppercase;">{{ site.description }}</p>
+      <ul class="actions">
+        <li><a href="#one" class="button next scrolly">Like What ?</a></li>
+      </ul>
+    </div>
+  </div>
 </section>
 
 <!-- Main -->
@@ -31,15 +31,17 @@ nav-menu:
 
 <!-- Two -->
 <section id="two">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="landing.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
+  <div class="inner">
+    <header class="major">
+      <h2>Open Source</h2>
+    </header>
+    <p>Like many of us, I strongly believe in Open Source and Free Software. It's
+    also a very fun hobby of mine. You can have a look at the different projects
+    I've released or I've contributed to</p>
+    <ul class="actions">
+      <li><a href="projects.html" class="button next">My Projects</a></li>
+    </ul>
+  </div>
 </section>
 
 </div>

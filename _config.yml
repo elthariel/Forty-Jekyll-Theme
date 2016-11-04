@@ -9,8 +9,8 @@
 title-bold: LTA
 title-normal: Live Thoughs About {...}
 email: contact@lta.io
-description:
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: Here I talk about fun things I do
+baseurl: '' # the subpath of your site, e.g. /blog
 url: "https://blog.lta.io" # the base hostname & protocol for your site
 author: Julien 'Lta' BALLET
 street_address:
