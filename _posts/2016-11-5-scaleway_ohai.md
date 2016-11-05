@@ -2,7 +2,7 @@
 layout: post
 title: Scaleway metadata in Chef
 description: Ohai's magic
-image:  assets/images/ohai_swc.png
+image:  assets/images/ohai_scw.png
 ---
 
 Do you want to generate DNS records for all your running nodes ? Do
