@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benchmarkin Scaleway's VPS internal bandwidth
+title: Benchmarking Scaleway's internal bandwidth
 description: Just a quick benchmark with iperf
 image:
 ---
