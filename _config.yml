@@ -8,7 +8,8 @@
 # Site settings
 title-bold: LTA
 title-normal: Live Thoughs About {...}
-email: contact@lta.io
+email: contact '<_at_>' lta.io
+formspree_form_id: xbjpoobo
 description: Here I talk about fun things I do
 baseurl: '' # the subpath of your site, e.g. /blog
 url: "https://blog.lta.io" # the base hostname & protocol for your site
@@ -34,7 +35,7 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url: https://github.com/elthariel
-gitlab_url:
+gitlab_url: https://gitlab.com/elthariel
 googleplus_url:
 instagram_url: https://instagram.com/djlta
 linkedin_url: https://www.linkedin.com/in/balletjulien
