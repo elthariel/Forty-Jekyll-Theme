@@ -88,6 +88,8 @@ systemctl enable wg-quick@wg0.service
 systemctl start wg-quick@wg0.service
 ```
 
+> It's worth noting that you'll need to enable ip forwarding in sysctl at least for the tunneling device. You can enable it globally with `sudo sysctl net.ipv4.conf.all.forwarding=1  `
+
 ### Client config
 
 Here's my client `/usr/local/etc/wireguard/wg0.conf`:
